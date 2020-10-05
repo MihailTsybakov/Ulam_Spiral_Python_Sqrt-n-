@@ -1,1 +1,1 @@
-# Ulam_Spiral_Python_Sqrt-n-
+Drawing Ulam's spiral for O(sqrt(n))
